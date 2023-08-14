@@ -1,1 +1,11 @@
 // Add your custom CSS here.
+// hide add to checkout
+.card-footer .minicart__btn-checkout.btn.btn-block.btn-primary {
+    display: none !important;
+}
+body { 
+    font-family: Fraunces;
+}
+.product-card__buy.fade {
+  opacity: 1 !important;
+}
